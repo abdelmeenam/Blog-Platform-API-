@@ -34,6 +34,7 @@ class CreatePostRequest extends FormRequest
             'education',
             'politics',
             'entertainment',
+            'Programming',
         ];
 
         return [

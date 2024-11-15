@@ -34,6 +34,7 @@ class UpdatePostRequest extends FormRequest
             'education',
             'politics',
             'entertainment',
+            'Programming',
         ];
 
         return [
